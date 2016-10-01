@@ -1,0 +1,6 @@
+5 // total number of labels
+5 // total number of timeZones 
+50 //total number of pids
+50 //total number of cids
+1~50 //cids
+1:1,1:2...50:1,50.2//pids
